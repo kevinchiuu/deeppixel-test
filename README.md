@@ -1,3 +1,7 @@
+## ScreenShots
+!["screenshot"](https://github.com/kevinchiuu/deeppixel-test/blob/master/src/images/Screen%20Shot%202021-08-11%20at%2010.36.13%20PM.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
