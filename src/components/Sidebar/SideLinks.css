@@ -1,0 +1,21 @@
+.sidelinks {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 25% 0 25% 0;
+}
+
+.links {
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+
+.links h3 {
+  margin: 0;
+}
+
+.link-icons {
+  font-size: 28px;
+}
